@@ -1,0 +1,10 @@
+.pouplar{
+    margin-top: 120px;
+}
+.pouplar .title{
+    width: max-content;
+    margin: 50px auto;
+}
+.pouplar .title h1{
+ text-align: center;
+}

@@ -1,0 +1,31 @@
+.pouplar .container{
+    display: flex;
+   
+    margin: 50px auto;
+    justify-content: space-between;
+    width: 80vw;;
+}
+.pouplar .container.reverse{
+    flex-direction: row-reverse;
+}
+.pouplar .container .txt{
+    width: 49%;
+    align-items: center;
+    margin-top: 60px;
+
+}
+.pouplar .container .imagees{
+display: flex;
+width: 49%;
+justify-content: space-between;
+position: relative;
+}
+.pouplar .container .imagees img{
+    max-width: 49%;
+    height: 350px;
+    border-radius: 6px;
+}
+.pouplar .container .imagees img:nth-child(2){
+    position: relative;
+    top: -20px;
+}
