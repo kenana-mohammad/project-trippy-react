@@ -9,7 +9,7 @@ import PouplarDestaintion from "./Components/PouplarDestaintion/PouplarDestainti
 import HomeBg from "./assets/1.jpg";
 function App() {
  const navItems =[{label:"home",icon:"fa-solid fa-house-user"},
- {label:"aboute",icon:"fa-house-user"},{label:"services",icon:"fa-house-user"},{label:"contact",icon:"fa-house-user"}]
+ {label:"aboute",icon:"fa-solid fa-circle-info"},{label:"services",icon:"fa-solid fa-house-user"},{label:"contact",icon:"fa-solid fa-house-user"}]
 
   return (
     <>
